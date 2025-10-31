@@ -1,4 +1,4 @@
-/* MAXAR Hurricane Melissa (2025): build RGB and 1-band mosaics # Hurricane Melissa (2025) — GEE Mosaics
+/* MAXAR Hurricane Melissa (2025): build RGB and 1-band mosaics # Hurricane Melissa (2025).
   Earth Engine script that filters a MAXAR collection to 3-band RGB and 1-band scenes, then mosaics each.
 
 Source collection -- awesome-gee-community-catalog : https://gee-community-catalog.org/projects/maxar_opendata/#citation
